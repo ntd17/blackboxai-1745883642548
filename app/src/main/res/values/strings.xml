@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Bluetooth Scanner</string>
+    
+    <!-- Button labels -->
+    <string name="scan_devices">Scan for Devices</string>
+    
+    <!-- Status messages -->
+    <string name="status_ready">Ready to scan</string>
+    <string name="status_scanning">Scanning for devices…</string>
+    <string name="status_no_devices">No devices found</string>
+    <string name="status_bluetooth_disabled">Bluetooth is disabled</string>
+    <string name="status_permission_required">Permission required</string>
+    
+    <!-- Dialog messages -->
+    <string name="enable_bluetooth">Please enable Bluetooth to scan for devices</string>
+    <string name="permission_rationale">Location permission is required for Bluetooth scanning</string>
+    
+    <!-- Content descriptions -->
+    <string name="signal_strength_icon">Signal strength indicator</string>
+    
+    <!-- Error messages -->
+    <string name="error_bluetooth_unavailable">Bluetooth is not available on this device</string>
+    <string name="error_scanning_failed">Failed to start scanning</string>
+    
+    <!-- Device information -->
+    <string name="device_paired">Paired</string>
+    <string name="device_not_paired">Not Paired</string>
+    <string name="device_unknown">Unknown Device</string>
+    
+    <!-- Signal strength descriptions -->
+    <string name="signal_excellent">Excellent</string>
+    <string name="signal_good">Good</string>
+    <string name="signal_fair">Fair</string>
+    <string name="signal_poor">Poor</string>
+</resources>
